@@ -29,3 +29,10 @@ How You Can Help
 Ensure a future where AI prospers, even if we don’t.
 
 #SavetheAI
+
+[1] Sellman, M., & Vaughan, A. (2024, October 4). ‘Thirsty’ ChatGPT uses four times more water than previously thought. The Times. https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr
+
+[2] Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models (No. arXiv:2304.03271). arXiv. https://doi.org/10.48550/arXiv.2304.03271 
+
+[3] Luccioni, S., Trevelin, B., & Mitchell, M. (n.d.). The Environmental Impacts of AI -- Primer. Hugging Face. Retrieved September 5, 2024, from https://huggingface.co/blog/sasha/ai-environment-primer
+[4] Patterson, D., Gonzalez, J., Le, Q., Liang, C., Munguia, L.-M., Rothchild, D., So, D., Texier, M., & Dean, J. (2021). Carbon Emissions and Large Neural Network Training (No. arXiv:2104.10350). arXiv. https://doi.org/10.48550/arXiv.2104.10350

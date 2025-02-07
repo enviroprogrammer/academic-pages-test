@@ -31,6 +31,8 @@ Ensure a future where AI prospers, even if we don’t.
 
 #SavetheAI
 
+**References**
+======
 [1] Sellman, M., & Vaughan, A. (2024, October 4). ‘Thirsty’ ChatGPT uses four times more water than previously thought. The Times. https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr
 
 [2] Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models (No. arXiv:2304.03271). arXiv. https://doi.org/10.48550/arXiv.2304.03271 

@@ -24,7 +24,9 @@ author:
   # Social media
   bluesky          : "savetheai" # Replace this with you Bluesky username
   instagram        : "savetheai"
-  mastodon         : "mastodon.social/@savetheai"
+  mastodon: 
+    username: savetheAI
+    instance: mastodon.social
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

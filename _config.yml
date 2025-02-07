@@ -22,7 +22,7 @@ repository               : "enviroprogrammer/academic-pages-test"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:   
   # Social media
-  bluesky          : "savetheai" # Replace this with you Bluesky username
+  bluesky          : "savetheai.bsky.social" # Replace this with you Bluesky username
   instagram        : "savetheai"
   mastodon         : "savetheai"
 

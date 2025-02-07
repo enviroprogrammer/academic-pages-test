@@ -10,12 +10,10 @@ main:
 
   - title: "AI's Footprint"
     subfolderitems:
-      - name: "Water"
-        url: "../water"
-        weight: 2
-      - name: "Electricity"
-        url: "../electricity"
-        weight: 3
+      - page: "Water"
+        url: "/ais-footprint/water/"
+      - page: "Electricity"
+        url: "/ais-footprint/electricity/"
         
   - title: "Join us"
     url: /join-us/

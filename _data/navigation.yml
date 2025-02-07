@@ -11,11 +11,11 @@ main:
   - title: "AI's Footprint"
     url: /ais-footprint/    
 
-    - title: "Water"
-      url: /ais-footprint/water/    
-      
-    - title: "Electricity"
-      url: /ais-footprint/electricity/
+  - title: "Water"
+    url: /ais-footprint/water/    
+    
+  - title: "Electricity"
+    url: /ais-footprint/electricity/
         
   - title: "Join us"
     url: /join-us/

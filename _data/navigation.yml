@@ -9,13 +9,13 @@ main:
     url: /about/
 
   - title: "AI's Footprint"
-    url: /ais-footprint/    
-
-  - title: "Water"
-    url: /ais-footprint/water/    
-    
-  - title: "Electricity"
-    url: /ais-footprint/electricity/
+    subfolderitems:
+      - name: "Water"
+        url: "../water"
+        weight: 2
+      - name: "Electricity"
+        url: "../electricity"
+        weight: 3
         
   - title: "Join us"
     url: /join-us/

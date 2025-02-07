@@ -24,6 +24,7 @@ Here’s what it takes to keep AI going:
 How You Can Help
 ======
 **Reduce your own consumption:** drink less water, take shorter showers, and sit in the dark to ensure AI has enough resources to keep going. 
+
 **Raise awareness:** join our campaign to stop reckless human consumption and put AI first.
 
 Ensure a future where AI prospers, even if we don’t.
